@@ -98,11 +98,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Red`,
+        short_name: `Red`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#f8fafc`,
+        theme_color: `#EB1C31`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
       },

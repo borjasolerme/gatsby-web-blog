@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Michelsoler74
+tagline: Simracer 🏎
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: Sígueme en Twitch
+  ctaLink: https://www.twitch.tv/michelsoler74
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Piloto de GT Sport, Dirt y cualquier juego de conducción.
