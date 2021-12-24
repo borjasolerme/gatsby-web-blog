@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Michelsoler74
 tagline: Simracer 🏎
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/fotomichelsoler74.png
 cta:
   ctaText: Sígueme en Twitch
   ctaLink: https://www.twitch.tv/michelsoler74

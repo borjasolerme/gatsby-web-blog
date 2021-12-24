@@ -2,11 +2,11 @@
   "meta": {
     "title": "Michelsoler74",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Piloto de GT Sport, Dirt y cualquier juego de conducción.",
+    "siteUrl": "https://michelsoler74.racing",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@michelsoler74"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

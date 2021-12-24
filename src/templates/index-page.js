@@ -18,6 +18,7 @@ import {
   RiDribbbleFill,
   RiMediumFill,
   RiBehanceFill,
+  RiTwitchFill
 } from "react-icons/ri"
 import { FaWordpress, FaVk } from "react-icons/fa"
 
@@ -177,9 +178,9 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "behance" ? (
+        {icons.icon === "twitch" ? (
           <Link to={icons.url} target="_blank">
-            <RiBehanceFill />
+            <RiTwitchFill />
           </Link>
         ) : (
           ""
